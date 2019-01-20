@@ -1,4 +1,4 @@
-# flight-delay-prediction
+# Flight Delay Prediction
 Using machine learning in R to predict flight delays
 
 # data download url
